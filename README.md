@@ -78,14 +78,6 @@ Each day has a single page that belongs entirely to you.
 
 ---
 
-## Support
-
-If you run into issues or have feature requests, please contact:  
-**support@[yourdomain].com**
-
-Minimalist Notebook is designed to stay minimal and private.  
-Your words are yours—completely under your control.
-
 # Privacy Policy for Minimalist Notebook
 
 _Last updated: [September 25th, 2025]_
