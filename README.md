@@ -31,8 +31,6 @@ Each day has a single page that belongs entirely to you.
   - Bulleted list: `- item`  
   - Numbered list: `1. item`  
   - Checklist: `- [ ] task`  
-  - Press **Return** to continue a list.  
-  - Press **Return** again on an empty item to exit the list.
 
 ---
 
@@ -50,7 +48,7 @@ Each day has a single page that belongs entirely to you.
 ## Editing & Preview
 
 - Tap the **eye icon** to toggle between Edit and Preview.
-- In Preview mode, Markdown formatting, checklists, and images are rendered for easy reading.
+- In Preview mode, Markdown formatting, checklists, and images are rendered for easy reading. Double tap in Preview takes you back to editing.
 - The formatting toolbar lets you insert or wrap text **at the cursor**.
 
 ---
@@ -59,6 +57,7 @@ Each day has a single page that belongs entirely to you.
 
 - **Swipe left/right** anywhere in the editor to move to the next or previous day.
 - Tap the **calendar icon** to pick a specific date.
+- **Bookmark** the notes that you consider important.
 
 ---
 
@@ -67,6 +66,7 @@ Each day has a single page that belongs entirely to you.
 - Notes and attachments never leave your device.
 - Back up with iTunes/Finder or your device’s own backup system.
 - Deleting the app removes all notes and images.
+- You can import and export notebooks as zip files.
 
 ---
 
