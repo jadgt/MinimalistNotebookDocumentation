@@ -66,7 +66,6 @@ Each day has a single page that belongs entirely to you.
 - Notes and attachments never leave your device.
 - Back up with iTunes/Finder or your device’s own backup system.
 - Deleting the app removes all notes and images.
-- You can import and export notebooks as zip files.
 
 ---
 
